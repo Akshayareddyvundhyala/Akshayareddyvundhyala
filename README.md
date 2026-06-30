@@ -9,10 +9,10 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 3rd Year B.Tech CSE (Data Science) Student at NMIMS Hyderabad
-* 🌱 Currently exploring Machine Learning, Artificial Intelligence, Data Analytics, and Full Stack Development
+* 🎓 B.Tech CSE (Data Science) Student at NMIMS Hyderabad
+* Currently exploring Machine Learning, Artificial Intelligence, Data Analytics, and Full Stack Development
 * 💡 Passionate about building real-world applications using data and AI
-* 🚀 Interested in Open Source, Research, and Software Development
+* Interested in Open Source, Research, and Software Development
 * 📍 Hyderabad, India
 
 ---
@@ -30,11 +30,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-🔹 **Mental Health Analysis Using Survey Data**
-
-Machine Learning model for analyzing mental health trends using data preprocessing, EDA, and Logistic Regression.
-
 🔹 **Smart Hiring System**
 
 AI-powered resume screening and ATS score prediction system.
@@ -54,11 +49,11 @@ Web application to simplify complaint tracking and improve response efficiency.
 
 
 ## 📜 Certifications
-
+* Python Full Stack Developer Virtual Internship (EduSkills AICTE)
 * Cisco Networking Academy – Python Fundamentals
 * Career Essentials in Data Analysis (Microsoft & LinkedIn)
 * Google Cloud Foundations
-* Python Full Stack Developer Virtual Internship (EduSkills AICTE)
+
 
 ---
 
