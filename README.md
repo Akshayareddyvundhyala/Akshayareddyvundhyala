@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vundhyala Akshaya Reddy
 
-### 💻 3rd Year B.Tech CSE (Data Science) Student | Aspiring Data Scientist | Machine Learning Enthusiast
+### 3rd Year B.Tech CSE (Data Science) Student | Aspiring Data Scientist | Machine Learning Enthusiast
 
 🎓 **B.Tech Computer Science & Engineering (Data Science)**
 📍 NMIMS Hyderabad
